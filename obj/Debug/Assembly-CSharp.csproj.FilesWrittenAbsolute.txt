@@ -1,0 +1,17 @@
+/Users/jlinnega/Documents/VR/BuildingBlocks/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/jlinnega/Documents/VR/BuildingBlocks/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/jlinnega/Documents/VR/BuildingBlocks/obj/Debug/Assembly-CSharp.dll
+/Users/jlinnega/Documents/VR/BuildingBlocks/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/jlinnega/Documents/VR/BuildingBlocks/Temp/bin/Debug/UnityEngine.dll
+/Users/jlinnega/Documents/VR/BuildingBlocks/Temp/bin/Debug/UnityEditor.dll
+/Users/jlinnega/Documents/VR/BuildingBlocks/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jlinnega/Documents/VR/BuildingBlocks/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jlinnega/Documents/VR/BuildingBlocks/Temp/bin/Debug/Mono.Cecil.dll
+/Users/jlinnega/Documents/VR/BuildingBlocks/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jlinnega/Documents/VR/BuildingBlocks/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jlinnega/Documents/VR/BuildingBlocks/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/jlinnega/Documents/VR/BuildingBlocks/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jlinnega/Documents/VR/BuildingBlocks/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jlinnega/Documents/VR/BuildingBlocks/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jlinnega/Documents/VR/BuildingBlocks/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/jlinnega/Documents/VR/BuildingBlocks/Temp/bin/Debug/Mono.Cecil.Mdb.dll

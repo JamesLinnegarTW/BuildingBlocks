@@ -47,9 +47,9 @@ public class WandController : MonoBehaviour {
 			interactingItem = closestItem;
 
 			if (interactingItem) {
-				//if (interactingItem.IsInteracting) {
+				if (interactingItem.IsInteracting()) {
 					interactingItem.EndInteraction (this);
-				//}
+				}
 				interactingItem.BeginInteraction (this);
 			}
 		}
