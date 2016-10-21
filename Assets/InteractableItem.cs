@@ -21,6 +21,7 @@ public class InteractableItem : MonoBehaviour {
 	void Start () {
 		rigidbody = GetComponent<Rigidbody> ();
 		interactionPoint = new GameObject ().transform;
+		rigidbody.transform.rotation = Random.rotation;
 		velocityFactor /= rigidbody.mass;
 		rotationFactor /= rigidbody.mass;
 	}
