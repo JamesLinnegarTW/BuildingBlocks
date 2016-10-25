@@ -45,7 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GameController.cs" />
      <Compile Include="Assets\InteractableItem.cs" />
+     <Compile Include="Assets\Rotator.cs" />
      <Compile Include="Assets\Scripts\SteamVR_FirstPersonController.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
